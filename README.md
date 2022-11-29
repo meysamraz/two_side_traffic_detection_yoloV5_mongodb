@@ -11,7 +11,7 @@ In this project, I tried to detect the traffic on both sides of the road using Y
 - [matplotlib](https://matplotlib.org/)
 - [opencv](https://opencv.org/)
 - [pymongo](https://pymongo.readthedocs.io/)
-- [pytorch]([https://spotipy.readthedocs.io/](https://pytorch.org/)
+- [pytorch](https://spotipy.readthedocs.io/](https://pytorch.org/)
 
 
 
